@@ -1,18 +1,18 @@
-Origin: A-ZAIN Repo
-Label: A-ZAIN Repo
+Origin: aosaid3224 Repo
+Label: aosaid3224
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64
 Components: main
-Description: A-ZAIN Repo Official - Dopamine 3.0 / Rootless Compatible
+Description: aosaid3224 Official Repo - Dopamine 3.0 / Rootless Compatible
 MD5Sum:
- 1613274f86f29f41cb91db53c9781102              640 Packages
- 92ffb6b9c3e0108be1b3a96586e15252              429 Packages.gz
- 7e5c3bd6f3c5cc1f227c71a43786666c              473 Packages.bz2
- 846afe486fb0f7b5448332a1bb5ae462              500 Packages.xz
+ 4fb166173a23bf336727461d1817cced              501 Packages
+ 0e6dfe77eada22cffcbf1dd4520971d0              361 Packages.gz
+ b24f05f529e03d10dc91e796a5dc9d0a              410 Packages.bz2
+ 883ffa47db99b2f1690ed0c0a2db3a47              424 Packages.xz
 SHA256:
- 80b4e088cc062b57bb071cd06c481eede44af40ebd43d948cc9edb46cebc0020              640 Packages
- 99e04789bb6780002177671a3e8b2073efe59474fa156191e28516429c075bea              429 Packages.gz
- 2a3e2d7ae63dbb1c4a40808b972d359a45e584e6a82a6806d6dbe57a9572ff3d              473 Packages.bz2
- 30eba841e43bc1bfd21ff224e9c5b831e2d3aa2c5d977ecddbbff01bb9ccc6bd              500 Packages.xz
+ 535224ce10e30da3984ce0e940ae74ef7a3d887ac240e0aa01c23fffb03dbafb              501 Packages
+ 3dacc5ec5846924e6f9d50d3ca3daf0dedeb24868cac3807c4d1f9aed78f6620              361 Packages.gz
+ 4a5c1b9d8660c785ae8a50551332fed042979891e61e2670cf9cc25a4514e9f0              410 Packages.bz2
+ eaf321984408b7708d5e93c3676139fff79a349397a5a5886c9cb457a1eacc6a              424 Packages.xz
