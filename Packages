@@ -8,7 +8,7 @@ Author: ZAIN <@Zainqkvd>
 Section: Utilities
 Depends: firmware (>= 15.0)
 Filename: https://raw.githubusercontent.com/aosaid3224-ops/repo/main/pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.4.0_iphoneos-arm64.deb
-Size: 283764
-MD5sum: 5d1722827a722144ea9b06674697eb9f
-SHA256: 455ca71b98314089ba78f92bedb7ce71a56cb35fe9f0141a9420f2c11dac2e9e
+Size: 283474
+MD5sum: a0ae23e6229b7be8251f7a5730b1138d
+SHA256: b2ae17a996a24fb307bae28e4d9cc97a98647cb7e55db1cd762027a974e3b8c6
 
