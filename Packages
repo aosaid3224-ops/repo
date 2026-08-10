@@ -1,14 +1,322 @@
 Package: com.aosaid.appdatamgr
 Name: AppData Manager
-Version: 1.4.0
+Description: Professional app data wipe & backup tool. Rootless/Dopamine 3.0 compatible. iOS 15-18 supported.
+Maintainer: aosaid3224 <aosaid3224@github.com>
+Author: aosaid3224 <aosaid3224@github.com>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Priority: optional
 Architecture: iphoneos-arm64
+Version: 1.1.0
+Installed-Size: 484
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.1.0_iphoneos-arm64.deb
+Size: 231378
+MD5sum: c452996cb7108d3da4c16480cbac1a71
+SHA1: d7bd6d9417d137d09bf8f9044eeb966c26eca50b
+SHA256: 0b9afc6833f8826f41ab023c61908c936eb17b514d6e9168e6e7139f8fb85796
+
+Package: com.aosaid.appdatamgr
+Name: AppData Manager
+Description: Professional app data wipe & backup tool. Rootless/Dopamine 3.0 compatible. iOS 15-18 supported.
+Maintainer: aosaid3224 <aosaid3224@github.com>
+Author: aosaid3224 <aosaid3224@github.com>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Priority: optional
+Architecture: iphoneos-arm64
+Version: 1.1.1
+Installed-Size: 484
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.1.1_iphoneos-arm64.deb
+Size: 231542
+MD5sum: 99a3b512a83c4f9f7a18816659bdb130
+SHA1: 5941bd44cb3b7ab525b90d84ead841d0fa92d7c8
+SHA256: 6571a73c9def42222dd89f33fb45a602be8718cae36926f6848e5effc8c0ebbd
+
+Package: com.aosaid.appdatamgr
+Name: AppData Manager
+Description: Professional app data wipe & backup tool. Rootless/Dopamine 3.0 compatible. iOS 15-18 supported.
+Maintainer: aosaid3224 <aosaid3224@github.com>
+Author: aosaid3224 <aosaid3224@github.com>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Priority: optional
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Installed-Size: 484
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.1.2_iphoneos-arm64.deb
+Size: 231994
+MD5sum: 76ae96a35668b83b13abcd5d6c36b265
+SHA1: 093625bba965a0ee6315f719a697905074b07006
+SHA256: d51dc68cb81946436a78957c8979515d44d946cc3783c67ca0dd83e43f439b42
+
+Package: com.aosaid.appdatamgr
+Name: AppData Manager
+Description: Professional app data wipe & backup tool. Rootless/Dopamine 3.0 compatible. iOS 15-26 supported.
+Maintainer: aosaid3224 <aosaid3224@github.com>
+Author: aosaid3224 <aosaid3224@github.com>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Priority: optional
+Architecture: iphoneos-arm64
+Version: 1.2.1
+Installed-Size: 616
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.2.1_iphoneos-arm64.deb
+Size: 257210
+MD5sum: 6f44f5a6f209af47d041a2e303d89146
+SHA1: 25000e997e42c64070f0f426af598c7924fcd5b6
+SHA256: 75362bccb0d0908a9fb4ce02538b28c0a70e947b2cc30bc0c0d99a65401796a6
+
+Package: com.aosaid.appdatamgr
+Name: AppData Manager
+Description: Professional app data wipe & backup tool. Rootless/Dopamine 3.0 compatible. iOS 15-26 supported.
+Maintainer: aosaid3224 <aosaid3224@github.com>
+Author: aosaid3224 <aosaid3224@github.com>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Priority: optional
+Architecture: iphoneos-arm64
+Version: 1.2.2
+Installed-Size: 616
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.2.2_iphoneos-arm64.deb
+Size: 259562
+MD5sum: e99d42849275f80797a5ccb89774ca66
+SHA1: 45cdbdba4177f521458ae0bef0f639796bbaf078
+SHA256: 30a5ca335b7c0e491085572fee20cf4940007a55be87569f141c420d7a443d0c
+
+Package: com.aosaid.appdatamgr
+Name: AppData Manager
+Description: Professional app data wipe & backup tool. Rootless/Dopamine 3.0 compatible. iOS 15-26 supported.
+Maintainer: aosaid3224 <aosaid3224@github.com>
+Author: aosaid3224 <aosaid3224@github.com>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Priority: optional
+Architecture: iphoneos-arm64
+Version: 1.2.3
+Installed-Size: 708
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.2.3_iphoneos-arm64.deb
+Size: 259220
+MD5sum: 1df7c05317d6000d3b6617c2dbc79297
+SHA1: 1c9bc81bef425953e5947777aac44a47a0597b33
+SHA256: e96e890e81d54619ef260dad2102ff113f9f29662703e4d922a59867e2e2a49d
+
+Package: com.aosaid.appdatamgr
+Name: AppData Manager
+Description: Professional app data wipe & backup tool. Rootless/Dopamine 3.0 compatible. iOS 15-26 supported.
+Maintainer: aosaid3224 <aosaid3224@github.com>
+Author: aosaid3224 <aosaid3224@github.com>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Priority: optional
+Architecture: iphoneos-arm64
+Version: 1.2.4
+Installed-Size: 708
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.2.4_iphoneos-arm64.deb
+Size: 258348
+MD5sum: 639865c64f2585aa45543cd6b90d018f
+SHA1: eb7c732b539063f5302462b8fb30e9ff34d6bade
+SHA256: db80c9024de0211b99905f59e4f95d1b9f83492d3d375c3ab3630e9d65e65f13
+
+Package: com.aosaid.appdatamgr
+Name: AppData Manager
+Description: Professional app data wipe & backup tool. Rootless/Dopamine 3.0 compatible. iOS 15-26 supported.
+Maintainer: aosaid3224 <aosaid3224@github.com>
+Author: aosaid3224 <aosaid3224@github.com>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Priority: optional
+Architecture: iphoneos-arm64
+Version: 1.2.5
+Installed-Size: 756
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.2.5_iphoneos-arm64.deb
+Size: 270984
+MD5sum: 5893b04343149725b8a00f0deb7dd21a
+SHA1: f8fd6e1a30975109fc7094ff1fbe0bc9598ae23f
+SHA256: 8377246b198fa6844984b259faa45b480f0cff5e03d729a1293f38be1fa606d9
+
+Package: com.aosaid.appdatamgr
+Name: AppData Manager
+Description: Professional app data wipe & backup tool. Rootless/Dopamine 3.0 compatible. iOS 15-26 supported.
+Maintainer: aosaid3224 <aosaid3224@github.com>
+Author: aosaid3224 <aosaid3224@github.com>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Priority: optional
+Architecture: iphoneos-arm64
+Version: 1.2.6
+Installed-Size: 788
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.2.6_iphoneos-arm64.deb
+Size: 275350
+MD5sum: e2fe36e9d43f7be24884e4089b740ba5
+SHA1: 1c161fe049058a3bd4f891b385415fe8a1c288a3
+SHA256: 9de7fb84f328dc946e53c2c3783f0694703f56cb17ce0b9ea3a51b6bd654811a
+
+Package: com.aosaid.appdatamgr
+Name: AppData Manager
+Description: Professional app data wipe & backup tool. Rootless/Dopamine 3.0 compatible. iOS 15-26 supported.
+Maintainer: aosaid3224 <aosaid3224@github.com>
+Author: aosaid3224 <aosaid3224@github.com>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Priority: optional
+Architecture: iphoneos-arm64
+Version: 1.2.7
+Installed-Size: 756
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.2.7_iphoneos-arm64.deb
+Size: 271162
+MD5sum: 4c42600423d7405d5e87e613138d0737
+SHA1: 6d9dd11e05cd56efc8d6044568b66f6a690c8e99
+SHA256: b2a431c0dc45e53c04c5f9d34b0e071b7dc781c6735cf545dc24d3bde7e2b22b
+
+Package: com.aosaid.appdatamgr
+Name: AppData Manager
+Description: Professional app data wipe & backup tool. Rootless/Dopamine 3.0 compatible. iOS 15-26 supported.
+Maintainer: aosaid3224 <aosaid3224@github.com>
+Author: aosaid3224 <aosaid3224@github.com>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Priority: optional
+Architecture: iphoneos-arm64
+Version: 1.2.8
+Installed-Size: 756
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.2.8_iphoneos-arm64.deb
+Size: 270934
+MD5sum: e2922cfbe36834651f50263dd340905f
+SHA1: 77e4b2431a7cc2f57ea9b93c6153cec0e406f756
+SHA256: 1dac3d5c43537c053fff02ac60ab39ba3bbf8c168b2c779a38f4243ef2a61244
+
+Package: com.aosaid.appdatamgr
+Name: AppData Manager
+Description: Professional app data wipe & backup tool. Rootless/Dopamine 3.0 compatible. iOS 15-26 supported.
+Maintainer: aosaid3224 <aosaid3224@github.com>
+Author: aosaid3224 <aosaid3224@github.com>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Priority: optional
+Architecture: iphoneos-arm64
+Version: 1.2.9
+Installed-Size: 772
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.2.9_iphoneos-arm64.deb
+Size: 275424
+MD5sum: 5520a84f202fb3d1fbd5e9a03b188097
+SHA1: 072356c4d98ff923819b8012b8d3c94a4cd33af0
+SHA256: 517b576fe1e4320ca1c45c27aeb480b41bf13794a6ac09e13c6590d6fb6259be
+
+Package: com.aosaid.appdatamgr
+Name: AppData Manager
+Description: Professional app data wipe & backup tool. Rootless/Dopamine 3.0 compatible. iOS 15-26 supported. Now with comprehensive Group Container support.
+Maintainer: aosaid3224 <aosaid3224@github.com>
+Author: aosaid3224 <aosaid3224@github.com>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Priority: optional
+Architecture: iphoneos-arm64
+Version: 1.3.0
+Installed-Size: 788
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.3.0_iphoneos-arm64.deb
+Size: 278150
+MD5sum: 14a38c79d298b725b74991cbd468b6a7
+SHA1: 8356ab16162ba82b3c7f9c5b65847ce020dbb6ab
+SHA256: 1b17e32a31c894a913ff71261d33f71ecbb5d941fc4884dfa08d20f766c33425
+
+Package: com.aosaid.appdatamgr
+Name: AppData Manager
+Description: Professional app data wipe & backup tool. Rootless/Dopamine 3.0 compatible. iOS 15-26 supported. Now with comprehensive Group Container support.
+Maintainer: aosaid3224 <aosaid3224@github.com>
+Author: aosaid3224 <aosaid3224@github.com>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Priority: optional
+Architecture: iphoneos-arm64
+Version: 1.3.1
+Installed-Size: 788
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.3.1_iphoneos-arm64.deb
+Size: 277556
+MD5sum: 71ceff5b7232234c6106fb66b1749400
+SHA1: 98c246f3b1c6c62eac3e099d537178fdfe59b67d
+SHA256: 5a1bcb7f411bfebf0edae6ea559eff22bede4f09b344e1b2474618c3dfea2fed
+
+Package: com.aosaid.appdatamgr
+Name: AppData Manager
+Description: Professional app data wipe & backup tool. Rootless/Dopamine 3.0 compatible. iOS 15-26 supported. Now with comprehensive Group Container support.
+Maintainer: aosaid3224 <aosaid3224@github.com>
+Author: aosaid3224 <aosaid3224@github.com>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Priority: optional
+Architecture: iphoneos-arm64
+Version: 1.3.3
+Installed-Size: 808
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.3.3_iphoneos-arm64.deb
+Size: 282472
+MD5sum: 02f0ae6fe38eda8acdd87247598d3619
+SHA1: 8d4e35c6e0a7c857c38e477c15141d7664d73bfb
+SHA256: bf1a2c842f05a2ddb38944653334be2deec0f1bf257cbaf679645d600083d732
+
+Package: com.aosaid.appdatamgr
+Name: AppData Manager
+Description: Professional app data wipe & backup tool. Rootless/Dopamine 3.0 compatible. iOS 15-26 supported. Now with comprehensive Group Container support.
+Maintainer: aosaid3224 <aosaid3224@github.com>
+Author: aosaid3224 <aosaid3224@github.com>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Priority: optional
+Architecture: iphoneos-arm64
+Version: 1.3.4
+Installed-Size: 824
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.3.4_iphoneos-arm64.deb
+Size: 284468
+MD5sum: f8443f47e476b328471712ac10d3ed17
+SHA1: 4e8361bc81f2a2534865aa812448587f8e090023
+SHA256: 76781f14f43b3891747981ffda0d847ea6d062b09b6cc3e3a3257770a87e0bfd
+
+Package: com.aosaid.appdatamgr
+Name: AppData Manager
+Description: Professional app data wipe & backup tool. Rootless/Dopamine 3.0 compatible. iOS 15-26 supported. Now with comprehensive Group Container support.
+Maintainer: aosaid3224 <aosaid3224@github.com>
+Author: aosaid3224 <aosaid3224@github.com>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Priority: optional
+Architecture: iphoneos-arm64
+Version: 1.3.5
+Installed-Size: 824
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.3.5_iphoneos-arm64.deb
+Size: 284414
+MD5sum: 254276877b0c4ebd674f0066c9315cb2
+SHA1: 6dacf852307a7239d415b2c6bd65037fa6574bff
+SHA256: c31a3318c0f1e308d682a5a1f8459959a62042927501468e665f0ccd16731097
+
+Package: com.aosaid.appdatamgr
+Name: AppData Manager
 Description: Professional iOS App Data Manager - Wipe, Backup & Restore
 Maintainer: ZAIN <@Zainqkvd>
 Author: ZAIN <@Zainqkvd>
 Section: Utilities
 Depends: firmware (>= 15.0)
-Filename: https://github.com/aosaid3224-ops/AppDataManager/releases/download/v1.4.0/com.aosaid.appdatamgr_1.4.0_iphoneos-arm64.deb
-Size: 283764
-MD5sum: e4eab43e1a0a787c3957275d07724096
-SHA256: 6ec92e5cda0a18ba5bb4c664e67f45459af5184821a24fa686dd669f512b1165
+Architecture: iphoneos-arm64
+Version: 1.4.0
+Installed-Size: 824
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.4.0_iphoneos-arm64.deb
+Size: 283474
+MD5sum: a0ae23e6229b7be8251f7a5730b1138d
+SHA1: d03c18f0844616bce6e90e3b97b9d24b882bade6
+SHA256: b2ae17a996a24fb307bae28e4d9cc97a98647cb7e55db1cd762027a974e3b8c6
+
+Package: com.aosaid.ipainstallerpro
+Name: IPA Installer Pro
+Description: Professional IPA Installer for iOS Jailbreak — Self-Contained Installation Stack
+Maintainer: ZAIN <@Zainqkvd>
+Author: ZAIN <@Zainqkvd>
+Section: Utilities
+Depends: firmware (>= 15.0), unzip
+Pre-Depends: dpkg (>= 1.14.25)
+Architecture: iphoneos-arm64
+Version: 1.0.0-1+debug
+Installed-Size: 756
+Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 114446
+MD5sum: cd040c0d88c38d0df1389cc76c432391
+SHA1: af68f0adc439e07a66b1b16fa9db939a10e06715
+SHA256: 61dbc009f010b9502488c2460f5176cb1e503f09ab29436e2c3da2c16ddc7144
 

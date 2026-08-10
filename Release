@@ -1,18 +1,8 @@
 Origin: A-ZAIN Repo
-Label: A-ZAIN Repo
+Label: A-ZAIN
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64
 Components: main
-Description: A-ZAIN Repo Official - Dopamine 3.0 / Rootless Compatible
-MD5Sum:
- 04d69e64c4406868158c02abe25182a9              529 Packages
- 8fe01e46f1c01ad59dfea6f9f6b7a98b              382 Packages.gz
- a32b90d43a6b5f3cd266b1a12b161656              424 Packages.bz2
- 0031149be190f54fae563103445fce2c              448 Packages.xz
-SHA256:
- 90e15cf70feeced92858dc689810f4df8ff65bec60f81da36f862c26c11b5da3              529 Packages
- abacae3f4d97ef424597def6761f2f6ebc63454e0054ce128c5ba89727b4d1fc              382 Packages.gz
- 30bd8d9219e6369c32b038ad13ae481ce922f57cca349f6a93b30e9cf4323bb6              424 Packages.bz2
- d094b3f24bbd974abc8ef98ff5e052f8301668d6f21fe43ed3cebc372821485f              448 Packages.xz
+Description: A-ZAIN Repo - Jailbreak tools and utilities
