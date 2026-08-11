@@ -6,3 +6,21 @@ Codename: ios
 Architectures: iphoneos-arm64
 Components: main
 Description: A-ZAIN Repo - Jailbreak tools and utilities
+
+MD5Sum:
+ b66f1c8c73787c7021298f755c561f83 11666 Packages
+ 7e7a00d47e7f11eff1e4ec725782e3e7 2336 Packages.gz
+ 636e48585463fd8805c552737ab2ac62 2466 Packages.bz2
+ def307603f5d2126a25780a473947324 2128 Packages.xz
+
+SHA1:
+ d56fc0934f14ed76cbcad6595cc5da1b2b3c681c 11666 Packages
+ 3aff17873dbf52ed7f46a2e68bb0319c60fcaed7 2336 Packages.gz
+ b56073b2ae604422c898c61bdb898d4f8c56bfc8 2466 Packages.bz2
+ 03b2de4bae6094844e61dfb2ae248a370a9f25c6 2128 Packages.xz
+
+SHA256:
+ d9233fdf80b4694d047c446212c7e1b952a6faa53e10d5c855e3ab00c733bcd1 11666 Packages
+ 76c88886d6fab2456d3b1cba850ddd311b006a081458a73266f45923c76b498e 2336 Packages.gz
+ 7369b58f88ef961e4f1733cb350eb4fc1a984846e8791607adb56fd9fe115e3f 2466 Packages.bz2
+ cc27694750485f42b9309272317e4ad5797f3b2744e10e25e4969d5b9774231e 2128 Packages.xz
