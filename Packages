@@ -302,3 +302,19 @@ Size: 283474
 MD5sum: a0ae23e6229b7be8251f7a5730b1138d
 SHA1: d03c18f0844616bce6e90e3b97b9d24b882bade6
 SHA256: b2ae17a996a24fb307bae28e4d9cc97a98647cb7e55db1cd762027a974e3b8c6
+
+Package: com.aosaid.appdatamgr
+Name: AppData Manager
+Description: Professional iOS App Data Manager - Wipe, Backup & Restore
+Maintainer: ZAIN <@Zainqkvd>
+Author: ZAIN <@Zainqkvd>
+Section: Utilities
+Depends: firmware (>= 15.0)
+Architecture: iphoneos-arm64
+Version: 1.4.1
+Installed-Size: 824
+Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.4.1_iphoneos-arm64.deb
+Size: 281382
+MD5sum: 3dec411c5a9d2e6c3ff4d018d04abf9d
+SHA1: 083862d859780fe8cf47457133a2c2880d34f1b6
+SHA256: 89dfe399f39674a714bc57e850ab92524a65724d4bd6dfe394af4a04c9ba4752
