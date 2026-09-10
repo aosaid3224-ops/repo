@@ -3,21 +3,24 @@ Label: A-ZAIN
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm64
+Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: A-ZAIN Repo - Jailbreak tools and utilities
+
 MD5Sum:
- a8ecd7e92feaf5aea61e60f5e652bd82 2367 Packages
- d35686403d93842331f61e3ba136b92a 1074 Packages.gz
- 212710adf28689e80316c895df51b702 1204 Packages.bz2
- 5b591b6dc38b5bd6d872d50a4a218d97 1136 Packages.xz
+ 8d3c8a78fc499cb9175e5b1e4931f21e 2369 Packages
+ 01b968e9ba6a20da9657e4bf4f4de63c 1075 Packages.gz
+ 4c15e9596985e687df2680f475811f51 1206 Packages.bz2
+ 505f819fc04648f237655067aade4871 1136 Packages.xz
+
 SHA1:
- 1bfbd762605351c5c6628b41382a964006a989e0 2367 Packages
- 88b4a13ed3a633ffef547997911cdf37868c5ba1 1074 Packages.gz
- 2cbd2c82fd6187d206bc0e96066d2e2a58a54018 1204 Packages.bz2
- d33afe9a0c9ab637a0bdbdbe63d2eeefa0fbc7b9 1136 Packages.xz
+ 9ea1b81675b207a6ce45f949cb07ae08652ed7f2 2369 Packages
+ 02af052721f7f8527ab8bd79b6a0d11057b3158f 1075 Packages.gz
+ afd1807bb6c6ae868f8323cc36dc931bd88cef79 1206 Packages.bz2
+ 0cceb6a6b4141d53899a3079e50dfdbc196b5640 1136 Packages.xz
+
 SHA256:
- a7c3634e70ecb4f4a5e1967cfa31781ba31341054192f64941ad4464aaa5a11b 2367 Packages
- 1fdd8e72fd6f6db5587d76f8ab9d54b8f3ee76717a8789150c7182631385b54d 1074 Packages.gz
- bb4f521fc8ab93a5cce98c0e224ca948b566ec24ffe6743d8d28f1ec341d8098 1204 Packages.bz2
- 47b49256ee5c28944ced64a1913f1b8fa5b8b347e11490fdcfb086dfdd948406 1136 Packages.xz
+ 89ad3df91e9897abc12eccdee03cdeb2d4014b1456d6d23514d05004af3a9570 2369 Packages
+ ba069350bea6af2edac74c7b74ee434b228002fb929e3f4fbeef37e11e662569 1075 Packages.gz
+ 27d97e6496a547413d82b7f24414bcb72f495c9e7adb8865b5cc13f063af7383 1206 Packages.bz2
+ c8363f44b1878add1dcf173bacb4509380ba54b64ae18d957d2fc5776c0a0a90 1136 Packages.xz
