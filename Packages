@@ -1,3 +1,20 @@
+Package: com.tools4cydia.packages4
+Name: packages4
+Version: 3.0.0-1+rootless
+Architecture: iphoneos-arm64
+Depends: curl, dpkg
+Filename: ./debs/com.tools4cydia.packages4_3.0.0-1+rootless_iphoneos-arm64.deb
+Size: 3024462
+MD5sum: fa9d18e1d32d737a137f19fb5dd3ef51
+SHA1: 877f300836ac86e3d044b740139abbd93593b1b5
+SHA256: b2e79cad0849ead47708298ac1cef512df3eb3a2fd673a5038fa062af28ae692
+Section: Application
+Description: An awesome application!
+Author: tools4cydia
+Depiction: https://aosaid3224-ops.github.io/repo/
+Icon: https://t4c.info/images/packages4-icon/packages4.png
+Installed-Size: 2954
+
 Package: com.aosaid.ipainstallerpro
 Name: Spider
 Version: 4.0.0
