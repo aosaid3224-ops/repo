@@ -6,16 +6,16 @@ Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: A-ZAIN Repo - Jailbreak tools and utilities
-Date: Tue, 13 Oct 2026 19:08:54 UTC
+Date: Tue, 13 Oct 2026 19:12:04 UTC
 MD5Sum:
- a1e70c88765d0ff6fe25bde4ed98ad17 5121 Packages
- 0bc70e976aa478d1d973b6fc2265d34f 1607 Packages.gz
- edf571b6e8a295170a2a598c889b6c66 1793 Packages.bz2
+ 63bc5faef8c832debf2c7126777da2c0 5668 Packages
+ 28261bf27dc04c72f08808fa4657073c 1804 Packages.gz
+ 4de510960361c323be71cb872e33ad3e 1995 Packages.bz2
 SHA1:
- fbd004fa62f84ae012ffb88c79dad474cd72c82c 5121 Packages
- 20498465c3e0577eb09df65e862636cef2fe7690 1607 Packages.gz
- 4f38cfc94d4c129f9b3495e70c08a724ccf0f13a 1793 Packages.bz2
+ b5deb46a4aea74818ec3bb30728a35444839ffb6 5668 Packages
+ bc0520b4549d314e7e63ab93088812233a9d48e3 1804 Packages.gz
+ 30e2be9ba18cf48647cec57f53cf1a9613604abd 1995 Packages.bz2
 SHA256:
- 8329f73dfd8ce85f7f6fca12e14836c64403ec3b753ac5f14c70b74ff833832b 5121 Packages
- 4b7fc31aeee8da331f06d39e2ece02cdf762663580c9ca9b220ed00f133a7061 1607 Packages.gz
- 883f62e6a01542037a67af9cafccb6ec26e5e8d6f9deceb1819ed9bf577e6caf 1793 Packages.bz2
+ cd8419fa51b24df03b1268b43e8dedebb1f93479898010feac0b1e0505cdb9aa 5668 Packages
+ 76ddb3385c18dafa11cca29cb4de1ae0ceab9277f5066db0c9420edbb1a23d71 1804 Packages.gz
+ db2f46de3f5ad4b1067b2f1fbcde998be7b27a660bedd310b89b5910c464b0eb 1995 Packages.bz2
