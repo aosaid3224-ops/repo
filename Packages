@@ -125,20 +125,3 @@ Size: 4803482
 MD5sum: 38d66d77e7bf1e149f62ee5d21d7b559
 SHA1: 674d99fd82dd92ccc0805e0db215374f924ac384
 SHA256: 819a17b60e1474b65372e76dcdf1dc7f1679c34910fe2f9c5cc129adfc14e923
-
-Package: moe.misty.fouldecrypt
-Name: fouldecrypt
-Depends: zip
-Description: Directly decrypt binaries like flexdecrypt, but also supports iOS 14
-Maintainer: misty
-Author: misty
-Section: System
-Tag: role::hacker
-Architecture: iphoneos-arm64
-Version: 0.0.4-2+debug
-Installed-Size: 1384
-Filename: pool/main/iphoneos-arm64/moe.misty.fouldecrypt_0.0.4-2+debug_iphoneos-arm64.deb
-Size: 122228
-MD5sum: 35ddbfa1677bf321926d85350a2fe27f
-SHA1: 1a9bf7f9a6bdd1b9ba0c6703c15ee26bf0aa8ce6
-SHA256: 7005fd058dd19027d64803b896a18918c863e1ed5ccd16e374abf9de5df9c7c4
