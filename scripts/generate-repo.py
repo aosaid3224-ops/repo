@@ -13,6 +13,8 @@ POOL_ARCH_DIRS = [
     os.path.join(POOL_ROOT, "iphoneos-arm64"),
     os.path.join(POOL_ROOT, "iphoneos-arm64e"),
 ]
+# Legacy production layout keeps DEBs directly under debs/.
+LEGACY_DEBS_DIR = os.path.join(REPO_DIR, "debs")
 
 def hash_file(path, algo):
     h = hashlib.new(algo)
@@ -31,12 +33,15 @@ def get_deb_info(deb_path):
 def main():
     packages = []
     existing_dirs = [d for d in POOL_ARCH_DIRS if os.path.isdir(d)]
-    if not existing_dirs:
+    legacy_mode = not existing_dirs and os.path.isdir(LEGACY_DEBS_DIR)
+    if not existing_dirs and not legacy_mode:
         print(f"Pool dirs not found: {', '.join(POOL_ARCH_DIRS)}")
         return
 
-    for pool_dir in existing_dirs:
-        architecture_dir = os.path.basename(pool_dir)
+    scan_dirs = [(d, os.path.basename(d)) for d in existing_dirs]
+    if legacy_mode:
+        scan_dirs = [(LEGACY_DEBS_DIR, 'iphoneos-arm64')]
+    for pool_dir, architecture_dir in scan_dirs:
         for fname in sorted(os.listdir(pool_dir)):
             if not fname.endswith(".deb"):
                 continue
@@ -48,7 +53,7 @@ def main():
             info = get_deb_info(fpath)
 
             entry = info.strip()
-            entry += f"\nFilename: pool/main/{architecture_dir}/{fname}\n"
+            entry += f"\nFilename: {'debs' if legacy_mode else 'pool/main/' + architecture_dir}/{fname}\n"
             entry += f"Size: {size}\n"
             entry += f"MD5sum: {md5}\n"
             entry += f"SHA1: {sha1}\n"
