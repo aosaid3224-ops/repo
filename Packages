@@ -1,3 +1,19 @@
+Package: com.aosaid.ipainstallerpro.roothide
+Name: Spider RootHide
+Version: 3.0.46+roothide1
+Architecture: iphoneos-arm64e
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.aosaid.ipainstallerpro.roothide_3.0.46+roothide1_iphoneos-arm64e.deb
+Size: 5024428
+MD5sum: 12d5cb1a205d1644c2134972a376c743
+SHA1: eca8907704c002ae2018936a25d91be83693ea68
+SHA256: ab88d31c53de01590f69b46b82c0f54fdac2cadaa06f1757767205a9acaf186d
+Section: Utilities
+Description: Spider official standalone IPA installer with analysis and signing orchestration using system primitives
+Author: aosaid <aosaid@proton.me>
+Depiction: https://aosaid3224-ops.github.io/repo/
+Installed-Size: 4907
+
 Package: com.tools4cydia.packages4
 Name: packages4
 Version: 3.0.0-1+rootless
