@@ -1,62 +1,12 @@
-Package: com.aosaid.ipainstallerpro.roothide
-Name: Spider RootHide
-Version: 3.0.46+roothide1
-Architecture: iphoneos-arm64e
-Depends: firmware (>= 15.0)
-Filename: ./debs/com.aosaid.ipainstallerpro.roothide_3.0.46+roothide1_iphoneos-arm64e.deb
-Size: 5024428
-MD5sum: 12d5cb1a205d1644c2134972a376c743
-SHA1: eca8907704c002ae2018936a25d91be83693ea68
-SHA256: ab88d31c53de01590f69b46b82c0f54fdac2cadaa06f1757767205a9acaf186d
-Section: Utilities
-Description: Spider official standalone IPA installer with analysis and signing orchestration using system primitives
-Author: aosaid <aosaid@proton.me>
-Depiction: https://aosaid3224-ops.github.io/repo/
-Installed-Size: 4907
-
-Package: com.tools4cydia.packages4
-Name: packages4
-Version: 3.0.0-1+rootless
-Architecture: iphoneos-arm64
-Depends: curl, dpkg
-Filename: ./debs/com.tools4cydia.packages4_3.0.0-1+rootless_iphoneos-arm64.deb
-Size: 3024462
-MD5sum: fa9d18e1d32d737a137f19fb5dd3ef51
-SHA1: 877f300836ac86e3d044b740139abbd93593b1b5
-SHA256: b2e79cad0849ead47708298ac1cef512df3eb3a2fd673a5038fa062af28ae692
-Section: Application
-Description: An awesome application!
-Author: tools4cydia
-Depiction: https://aosaid3224-ops.github.io/repo/
-Icon: https://t4c.info/images/packages4-icon/packages4.png
-Installed-Size: 2954
-
-Package: com.aosaid.ipainstallerpro
-Name: Spider
-Version: 4.0.0
-Architecture: iphoneos-arm64
-Depends: firmware (>= 15.0), com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
-Filename: ./debs/com.aosaid.ipainstallerpro_3.3.10_iphoneos-arm64.deb
-Size: 735322
-MD5sum: 2a13acd21765f2c6d027b1e5804bfae2
-SHA1: a66e1d1dfa7abbbd3e37351bfeb57f1196ff733f
-SHA256: 397600b024cf6b43011b5007a3d04e5591113e226288827ef71b24acd4bf203f
-Section: Utilities
-Description: Spider official standalone IPA installer with analysis and signing orchestration using system primitives
-Author: aosaid <aosaid@proton.me>
-Depiction: https://aosaid3224-ops.github.io/repo/
-Icon: https://aosaid3224-ops.github.io/repo-dev/icon.png
-Installed-Size: 719
-
 Package: com.aosaid.appdatamgr
 Name: AppData Manager
-Description: Professional iOS Jailbreak App - Wipe & Backup App Data (Rootless/Dopamine Compatible) [Crash-Resilient Build]
-Maintainer: ZAIN <@Zainqkvd>
-Author: ZAIN <@Zainqkvd>
-Section: Utilities
-Depends: firmware (>= 15.0)
-Architecture: iphoneos-arm64
 Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: ZAIN <@Zainqkvd>
+Depends: firmware (>= 15.0)
+Section: Utilities
+Description: Professional iOS Jailbreak App - Wipe & Backup App Data (Rootless/Dopamine Compatible) [Crash-Resilient Build]
+Author: ZAIN <@Zainqkvd>
 Installed-Size: 872
 Filename: pool/main/iphoneos-arm64/com.aosaid.appdatamgr_1.0.2_iphoneos-arm64.deb
 Size: 294008
@@ -68,11 +18,11 @@ Package: com.aosaid.ipadecrypthelper
 Name: IPA Decrypt Helper
 Version: 0.1.0-1+debug
 Architecture: iphoneos-arm64
-Description: On-device decrypted IPA helper for jailbroken iOS
 Maintainer: aosaid <aosaid@proton.me>
-Author: aosaid <aosaid@proton.me>
 Section: Utilities
-Filename: pool/main/iphoneos-arm64/com.aosaid.ipadecrypthelper_0.1.0-1+debug_iphoneos-arm64.deb
+Description: On-device decrypted IPA helper for jailbroken iOS
+Author: aosaid <aosaid@proton.me>
+Filename: debs/com.aosaid.ipadecrypthelper_0.1.0-1+debug_iphoneos-arm64.deb
 Size: 30090
 MD5sum: 2c3bcfb9aa2f92395b9b7a1f73d72c26
 SHA1: d48aaa7b9f02fa3f60594998d67114da70b4c2a0
@@ -80,80 +30,155 @@ SHA256: b85f601229f584b4c01515ec84a75c684b257e8a079c592d21c297225c3a085b
 
 Package: com.aosaid.ipainstallerpro
 Name: Spider
-Description: Spider official standalone IPA installer with analysis and signing orchestration using system primitives
-Maintainer: aosaid <aosaid@proton.me>
-Author: aosaid <aosaid@proton.me>
-Section: Utilities
-Depends: firmware (>= 15.0), com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
-Architecture: iphoneos-arm64
 Version: 3.1.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: aosaid <aosaid@proton.me>
+Depends: firmware (>= 15.0), com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
+Section: Utilities
+Description: Spider official standalone IPA installer with analysis and signing orchestration using system primitives
+Author: aosaid <aosaid@proton.me>
 Installed-Size: 6952
 Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_3.1.1-1+debug_iphoneos-arm64.deb
 Size: 4818492
 MD5sum: 8ac7845c32b3a1490deb14b1643d0bea
 SHA1: 1647748c1825589dfd6683bc0b9c3a1b94b6aef3
 SHA256: 6b5b04656b920b958fe69b380c1f4d650a9cc82312185059797f1c22e0446c9a
+Depiction: https://aosaid3224-ops.github.io/repo/
+Icon: https://aosaid3224-ops.github.io/repo-dev/icon.png
 
 Package: com.aosaid.ipainstallerpro
 Name: Spider
-Description: Spider official standalone IPA installer with analysis and signing orchestration using system primitives
-Maintainer: aosaid <aosaid@proton.me>
-Author: aosaid <aosaid@proton.me>
-Section: Utilities
-Depends: firmware (>= 15.0), com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
-Architecture: iphoneos-arm64
 Version: 3.1.2
+Architecture: iphoneos-arm64
+Maintainer: aosaid <aosaid@proton.me>
+Depends: firmware (>= 15.0), com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
+Section: Utilities
+Description: Spider official standalone IPA installer with analysis and signing orchestration using system primitives
+Author: aosaid <aosaid@proton.me>
 Installed-Size: 7216
 Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_3.1.2_iphoneos-arm64.deb
 Size: 4802910
 MD5sum: b1c7bcb8a81c3b8f43360681fb5c7774
 SHA1: d1e21986e4c518cdda3082b60955c6ba0c93f12e
 SHA256: e58c8970ea4d25970595d61a54d7a27248c1a402c2f2fcb7b169d4c689f7aadc
+Depiction: https://aosaid3224-ops.github.io/repo/
+Icon: https://aosaid3224-ops.github.io/repo-dev/icon.png
 
 Package: com.aosaid.ipainstallerpro
 Name: Spider
-Description: Spider official standalone IPA installer with analysis and signing orchestration using system primitives
-Maintainer: aosaid <aosaid@proton.me>
-Author: aosaid <aosaid@proton.me>
-Section: Utilities
-Depends: firmware (>= 15.0), com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
-Architecture: iphoneos-arm64
 Version: 3.1.3
+Architecture: iphoneos-arm64
+Maintainer: aosaid <aosaid@proton.me>
+Depends: firmware (>= 15.0), com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
+Section: Utilities
+Description: Spider official standalone IPA installer with analysis and signing orchestration using system primitives
+Author: aosaid <aosaid@proton.me>
 Installed-Size: 7216
 Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_3.1.3_iphoneos-arm64.deb
 Size: 4803728
 MD5sum: 7cf2eeb7f9d0766fc560c4e80422c8cc
 SHA1: 195c1477df0b7f96d0a7c2b0c307db53c41922de
 SHA256: 15d7fc58d728accb4ffe6b154a2796ed8182765a504376281b908daf34a96b43
+Depiction: https://aosaid3224-ops.github.io/repo/
+Icon: https://aosaid3224-ops.github.io/repo-dev/icon.png
 
 Package: com.aosaid.ipainstallerpro
 Name: Spider
-Description: Spider official standalone IPA installer with analysis and signing orchestration using system primitives
-Maintainer: aosaid <aosaid@proton.me>
-Author: aosaid <aosaid@proton.me>
-Section: Utilities
-Depends: firmware (>= 15.0), com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
-Architecture: iphoneos-arm64
 Version: 3.1.4
+Architecture: iphoneos-arm64
+Maintainer: aosaid <aosaid@proton.me>
+Depends: firmware (>= 15.0), com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
+Section: Utilities
+Description: Spider official standalone IPA installer with analysis and signing orchestration using system primitives
+Author: aosaid <aosaid@proton.me>
 Installed-Size: 7216
 Filename: pool/main/iphoneos-arm64/com.aosaid.ipainstallerpro_3.1.4_iphoneos-arm64.deb
 Size: 4803482
 MD5sum: 38d66d77e7bf1e149f62ee5d21d7b559
 SHA1: 674d99fd82dd92ccc0805e0db215374f924ac384
 SHA256: 819a17b60e1474b65372e76dcdf1dc7f1679c34910fe2f9c5cc129adfc14e923
+Depiction: https://aosaid3224-ops.github.io/repo/
+Icon: https://aosaid3224-ops.github.io/repo-dev/icon.png
+
+Package: com.aosaid.ipainstallerpro
+Name: Spider
+Version: 4.0.0
+Architecture: iphoneos-arm64
+Maintainer: aosaid <aosaid@proton.me>
+Depends: firmware (>= 15.0), com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
+Section: Utilities
+Description: Spider official standalone IPA installer with analysis and signing orchestration using system primitives
+Author: aosaid <aosaid@proton.me>
+Installed-Size: 1704
+Filename: debs/com.aosaid.ipainstallerpro_4.0.0_iphoneos-arm64.deb
+Size: 783994
+MD5sum: 8b4cf60fc31b0d7353dc8c92541bb306
+SHA1: cf3441843c724b5ba9fd5cf348338ac3b54a76c4
+SHA256: bc7c6abf6904840425c8342da2ca00552291aae2871e48e19dbe69fb73a37fc0
+Depiction: https://aosaid3224-ops.github.io/repo/
+Icon: https://aosaid3224-ops.github.io/repo-dev/icon.png
+
+Package: com.aosaid.ipainstallerpro.roothide
+Name: Spider RootHide
+Version: 3.0.46+roothide1
+Architecture: iphoneos-arm64e
+Maintainer: aosaid <aosaid@proton.me>
+Depends: firmware (>= 15.0)
+Recommends: com.aosaid.ipadecrypthelper, moe.misty.fouldecrypt
+Section: Utilities
+Description: Spider official standalone IPA installer with analysis and signing orchestration using system primitives
+Author: aosaid <aosaid@proton.me>
+Installed-Size: 5988
+Filename: debs/com.aosaid.ipainstallerpro.roothide_3.0.46+roothide1_iphoneos-arm64e.deb
+Size: 5024428
+MD5sum: 12d5cb1a205d1644c2134972a376c743
+SHA1: eca8907704c002ae2018936a25d91be83693ea68
+SHA256: ab88d31c53de01590f69b46b82c0f54fdac2cadaa06f1757767205a9acaf186d
+
+Package: com.opa334.trollstorelite
+Name: TrollStore Lite (RootHide)
+Version: 2.1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Section: Applications
+Description: TrollStore for RootHide jailbroken iOS
+Author: opa334
+Installed-Size: 3844
+Filename: debs/com.opa334.trollstorelite_2.1.1-2_iphoneos-arm64e.deb
+Size: 1736426
+MD5sum: 85c80daf6106c7fa4d494bf3da0bc062
+SHA1: 1bfbc6dd28bc8a279ba81975f701af5cc6b86421
+SHA256: bad64889a5d5c07c8d900fde34a6c5e5a55a77bd59be08373e262bba1864c226
+
+Package: com.tools4cydia.packages4
+Name: packages4
+Version: 3.0.0-1+rootless
+Architecture: iphoneos-arm64
+Maintainer: tools4cydia
+Depends: curl, dpkg
+Section: Application
+Tag: cydia::commercial
+Description: An awesome application!
+Author: tools4cydia
+Installed-Size: 4680
+Filename: debs/com.tools4cydia.packages4_3.0.0-1+rootless_iphoneos-arm64.deb
+Size: 3024462
+MD5sum: fa9d18e1d32d737a137f19fb5dd3ef51
+SHA1: 877f300836ac86e3d044b740139abbd93593b1b5
+SHA256: b2e79cad0849ead47708298ac1cef512df3eb3a2fd673a5038fa062af28ae692
 
 Package: moe.misty.fouldecrypt
 Name: fouldecrypt
-Depends: zip
-Description: Directly decrypt binaries like flexdecrypt, but also supports iOS 14
+Version: 0.0.4-2+debug
+Architecture: iphoneos-arm64
 Maintainer: misty
-Author: misty
+Depends: zip
 Section: System
 Tag: role::hacker
-Architecture: iphoneos-arm64
-Version: 0.0.4-2+debug
+Description: Directly decrypt binaries like flexdecrypt, but also supports iOS 14
+Author: misty
 Installed-Size: 1384
-Filename: pool/main/iphoneos-arm64/moe.misty.fouldecrypt_0.0.4-2+debug_iphoneos-arm64.deb
+Filename: debs/moe.misty.fouldecrypt_0.0.4-2+debug_iphoneos-arm64.deb
 Size: 122228
 MD5sum: 35ddbfa1677bf321926d85350a2fe27f
 SHA1: 1a9bf7f9a6bdd1b9ba0c6703c15ee26bf0aa8ce6
